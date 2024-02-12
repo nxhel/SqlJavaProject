@@ -1,0 +1,15 @@
+
+Movie;14.99;Titanic;Romance;220002;240.0;false;0.0;12;James Cameron;Paramount Pictures 20th Century Studios;
+Movie;10.0;Cars;Animation;220003;172.0;true;1.0;3;John Lasseter;Pixar Animation Studios;
+Movie;25.0;Home Alone;Comedy;220004;144.0;false;0.0;9;Chris Columbus;20th Century Studios;
+Movie;12.99;Wall-e;Animation;220005;162.0;true;3.99;2;Andrew Stanton;Pixar Animation Studios;
+Music;15.99;Munch;Hiphop;660001;3.2;true;0.0;3;Jay-Z;Def Jam Recordings;
+Music;9.99;Riptide;Country;660002;2.12;false;1.99;20;Taylor Swift;Big Machine Records;
+Music;5.99;WHERE SHE GOES;Rap;660003;3.39;true;0.0;10;Eminem;Aftermath Entertainment;
+Music;6.0;I KNOW;Rap;660004;4.01;false;0.0;3;Kendrick Lamar;Top Dawg Entertainment;
+Music;13.0;Tokyo Drift;EDM;660005;5.22;true;3.0;7;Calvin Harris;Sony Music Entertainment;
+Game;79.99;Fortnite;Shooter;1;4.0;true;0.0;3;PlayStation;Epic Games;
+Game;69.99;SuperMarioBros;Adventure;2;3.0;false;10.99;2;Nintendo Switch;Nintendo;
+Game;12.45;Call of Duty;Shooter;4;2.3;true;0.0;7;PlayStation;Activision;
+Game;19.99;Minecraft;Sandbox;5;6.0;false;0.0;3;Xbox;Mojang Studios Microsoft Studios;
+Game;20.0;Super mario;Adventure;3333333;2.5;true;0.0;3;nintendo;nintendo;
